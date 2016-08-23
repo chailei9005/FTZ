@@ -7,7 +7,7 @@ CalendarView组件继承View重写onDraw方法，利用Path对象进行路径绘
 
 这个CalendarView的API
 
-    ...java
+    ...
     String clickLeftMonth();    //上一个月 return String(年-月)
     String clickRightMonth();   //下一个月 return String(年-月)
     Surface getSurface();       //获取整个组件画图对象，可进行设置字体颜色等 return Surface
