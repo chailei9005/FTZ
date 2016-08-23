@@ -7,7 +7,7 @@
 
 ##这个CalendarView的API \<br>
 
-    ```java
+    ```Java
     String clickLeftMonth();    //上一个月 return String(年-月)
     String clickRightMonth();   //下一个月 return String(年-月)
     Surface getSurface();       //获取整个组件画图对象，可进行设置字体颜色等 return Surface
