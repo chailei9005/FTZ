@@ -4,6 +4,8 @@ CalendarView组件继承View重写onDraw方法，利用Path对象进行路径绘
 
 ![enter description here][1]
 
+https://github.com/bjpftz/FTZ/blob/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E5%8E%86/jdfw.gif
+
 
 这个CalendarView的API
 
